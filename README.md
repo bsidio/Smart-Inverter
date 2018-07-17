@@ -1,8 +1,8 @@
 # Smart-Inverter
 
 
-![Screenshot](pic1.png)
-![Screenshot](pic2.png)
-![Screenshot](pic3.png)
-![Screenshot](pic4.png)
+![Screenshot](pic1.jpg)
+![Screenshot](pic2.jpg)
+![Screenshot](pic3.jpg)
+![Screenshot](pic4.jpg)
 
